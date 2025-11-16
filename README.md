@@ -9,6 +9,12 @@
 
 Studypal is an AI-powered study companion platform built with Next.js that revolutionizes the way students create and consume educational content. The application leverages Google's Gemini AI to automatically generate comprehensive study materials including notes, flashcards, quizzes, and Q&A sessions from any topic. With integrated YouTube recommendations, a marketplace for sharing study materials, and a credit-based premium system powered by Stripe, StudyPal provides a complete learning ecosystem for students and educators.
 
+# Demo Video: 
+
+click the below link to view
+
+https://drive.google.com/file/d/1zPSpcE3bP-7gOV84DopTOdkd0aKhEE8u/view?usp=sharing
+
 ## ⚙️ Tech Stack
 
 - **Frontend**: Next.js 15, React 18, Tailwind CSS
@@ -392,12 +398,6 @@ Public Course Page
 
 A public-facing course preview that showcases content, curriculum, ratings, and purchase/enrollment options for visitors.
 
-
-# Demo Video: 
-
-click the below link to view
-
-https://drive.google.com/file/d/1zPSpcE3bP-7gOV84DopTOdkd0aKhEE8u/view?usp=sharing
 
 
 Developed by Magesh Ambikapathi
